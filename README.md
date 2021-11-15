@@ -8,7 +8,7 @@ Required packages specified as imports.
 
 # Scripts
 
-- IHCreader: This is a script to read .tif files and save as ome.tif pyramid file. Specially useful for CaseViewer converted data out of the 2DHistech. 
+- IHCreader: This is a script to read .tif files and save as ome.tif pyramid file. Specially useful for CaseViewer converted data out of the 3DHistech. 
 
 # License
 
